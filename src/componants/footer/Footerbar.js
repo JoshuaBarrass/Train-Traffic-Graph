@@ -5,7 +5,7 @@ let Footerbar = () => {
     <div className="footer">
         <div className="content">
             <p>Author : Joshua Barrass</p>
-            <p>Created For : Siemens Mobility - Train and Track Solutions. Was Verve Alternative Traction </p>
+            <p>Created while at Siemens Mobility </p>
         </div>
     </div>
     )
